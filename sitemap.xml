@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://insufficientlyadvanced.tech/</loc>
+    <lastmod>2021-01-02T22:40:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://insufficientlyadvanced.tech/posts/2021/hugo-notes/</loc>
+    <lastmod>2021-01-02T22:40:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://insufficientlyadvanced.tech/posts/</loc>
+    <lastmod>2021-01-02T22:40:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://insufficientlyadvanced.tech/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://insufficientlyadvanced.tech/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://insufficientlyadvanced.tech/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://insufficientlyadvanced.tech/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://insufficientlyadvanced.tech/tags/</loc>
+  </url>
+  
+</urlset>

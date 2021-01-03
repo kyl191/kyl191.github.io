@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on (in)sufficiently advanced</title>
+    <link>https://insufficientlyadvanced.tech/posts/</link>
+    <description>Recent content in Posts on (in)sufficiently advanced</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 22:40:23 +0000</lastBuildDate><atom:link href="https://insufficientlyadvanced.tech/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on my hugo setup</title>
+      <link>https://insufficientlyadvanced.tech/posts/2021/hugo-notes/</link>
+      <pubDate>Sat, 02 Jan 2021 22:40:23 +0000</pubDate>
+      
+      <guid>https://insufficientlyadvanced.tech/posts/2021/hugo-notes/</guid>
+      <description>I&amp;rsquo;m not much of a designer, so I just found a theme I liked, and ran with that. Chose PaperMod, though Fuji remains a future possibility.
+Hugo is actually pretty decent at selective overrides, so the underlying theme isn&amp;rsquo;t modified. I don&amp;rsquo;t have to manage git merges, though this complicated some aspects.
+Changes I&amp;rsquo;ve made  Post page footer reordered to have the comment section come before the share buttons.  Also stripped out the cover image and internationalization support to make it simpler.</description>
+    </item>
+    
+  </channel>
+</rss>
